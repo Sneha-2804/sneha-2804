@@ -108,7 +108,9 @@ Software Developer and **Prompt Engineering Freelancer at Handshake AI**. Specia
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sneha-2804&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sneha-2804&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true" width="49%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sneha-2804&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
 ---
