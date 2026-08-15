@@ -1,9 +1,8 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneha-2804/sneha-2804/main/dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sneha-2804/sneha-2804/main/light.gif">
-    <img alt="Sneha Gupta - Animated Terminal Profile" src="https://raw.githubusercontent.com/Sneha-2804/sneha-2804/main/dark.gif" width="100%">
-  </picture>
+  <a href="https://github.com/Sneha-2804">
+    <img src="https://raw.githubusercontent.com/Sneha-2804/sneha-2804/main/dark.gif#gh-dark-mode-only" alt="Sneha Gupta - Animated Terminal Profile" width="100%" style="width: 100%; max-width: 100%; display: block;" />
+    <img src="https://raw.githubusercontent.com/Sneha-2804/sneha-2804/main/light.gif#gh-light-mode-only" alt="Sneha Gupta - Animated Terminal Profile" width="100%" style="width: 100%; max-width: 100%; display: block;" />
+  </a>
 </p>
 
 <br>
