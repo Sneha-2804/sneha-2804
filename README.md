@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sneha-gupta">
+  <a href="https://www.linkedin.com/in/sneha-gupta-14b580378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;&nbsp;
@@ -34,7 +34,7 @@ Software Developer and **Prompt Engineering Freelancer at Handshake AI**. Specia
 - 🏆 **Achievements**: **GATE 2026 Qualified** | **CodeChef 2-Star** (Competitive Programming)
 - ⚡ **Experience**: Freelance Developer `@Handshake AI` & Frontend Developer Intern `@CodeAlpha`
 - 🚀 **Projects**: Built **AI Doc Assistant (RAG)**, **Resume Analyzer (Groq API)**, and **Wanderlust Rental Marketplace**.
-- 📬 **Get in Touch**: [LinkedIn](https://linkedin.com/in/sneha-gupta) | [GitHub](https://github.com/Sneha-2804)
+- 📬 **Get in Touch**: [LinkedIn Profile](https://www.linkedin.com/in/sneha-gupta-14b580378/) | [GitHub](https://github.com/Sneha-2804)
 
 ---
 
